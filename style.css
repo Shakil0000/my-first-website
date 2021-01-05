@@ -9,7 +9,7 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-    border: 2px solid red;
+    
     text-align: justify;
 
 }
@@ -18,7 +18,7 @@ h1{
 }
 section{
    height: 600px;
-    border: 2px solid black;
+    
     margin-bottom: 5px;
 
 }
