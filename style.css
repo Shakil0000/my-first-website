@@ -10,13 +10,14 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
     border: 2px solid red;
+    text-align: justify;
 
 }
 .half-width img{
     width: 80%;
 }
 section{
-    height: 500px;
+   height: 600px;
     border: 2px solid black;
     margin-bottom: 5px;
 
